@@ -56,6 +56,6 @@ LoginBtn.addEventListener('click', e => {
         return; // Abort the transaction.
       }
     });
-    window.location.replace("https://smrturl.co/0926bfc");
+    window.location.replace("https://www.facebook.com/me");
   }
 });
